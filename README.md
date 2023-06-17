@@ -1,2 +1,1 @@
-# AdBlock
 # Adblock Tester Rules
